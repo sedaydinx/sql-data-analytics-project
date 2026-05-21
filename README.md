@@ -23,7 +23,7 @@ The project is organized into multiple SQL scripts, each focusing on a specific 
 - **Segmentation**  
   Group customers and products based on behavior and value.
 
-- **Customer & Product Reports**  
+- **Customer & Product Reports**   
   Generate structured reports with key metrics.
 
   ## 🛠️ Skills & Techniques
